@@ -1,2 +1,2 @@
-# onaka
-Bra för magen
+# icho
+Bra för magen och tarmarna
